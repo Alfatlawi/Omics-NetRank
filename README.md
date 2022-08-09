@@ -1,5 +1,5 @@
 # NetRankR
-NetRank R package  
+NetRank R package. 
 This is the GitHub Page for our NetRank package "NetRankR".  
 This package is used to construct a protein-protein interaction network with StringDB   and a weighted gene co-expression network with WGCNA, both are constructed from gene expression data.  
 Additionally, this package allows to apply our NetRank algorithm on those Networks as described in [this publication](https://www.frontiersin.org/articles/10.3389/fbinf.2022.780229/full).  
