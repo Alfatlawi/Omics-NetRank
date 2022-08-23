@@ -14,12 +14,10 @@ or by downloading the package as a .zip and using
 
 `devtools::install_local("path/to/package.zip")`
 
-For more details see the provided UserGuide.pdf  
-
+For more details see the provided [UserGuide.pdf] 
+(https://github.com/Alfatlawi/Omics-NetRank/blob/master/UserGuide.pdf).
 ### Citing
-If you use the NetRank R package, please cite the following publication:
-
-Al-Fatlawi, A., Afrin, N., Ozen, C., Malekian, N., & Schroeder, M. (2022). NetRank Recovers Known Cancer Hallmark Genes as Universal Biomarker Signature for Cancer Outcome Prediction. Frontiers in Bioinformatics, 2, 780229.
+...
 
 ### Contact
   
