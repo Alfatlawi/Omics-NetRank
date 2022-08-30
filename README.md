@@ -21,7 +21,7 @@ For more details see the provided [UserGuide.pdf](https://github.com/Alfatlawi/O
 We evaluate our algorithm and implementation on data for 3,388 patients for 19 cancer types gathered from the Cancer Genome Atlas (TCGA) (https://portal.gdc.cancer.gov/). 
 We obtained gene expression data from the Cancer Genome Atlas (TCGA), which initially consisted of 20,531 genes and 11,069 samples. We kept only 8,603 samples after removing samples with missing values and duplicates. Among these, we used only 3,388 samples covering 19 cancer types, which were manually reviewed and approved in their clinical follow-up (see data distribution plot in the images folder ).  We normalized the expression data by using the MinMaxScaler function of the scikit-learn package version 1.0.2 (Pedregosa, F., Varoquaux, G., Gramfor...). For each cancer type, we split the data into 70/30\% sets, using the 70\% for network construction and gene ranking generation and the remaining 30\% for PCA and SVM testing and evaluation.
 
-For the phenotype and the normalized expression data, please refer to this [link](https://cloudstore.zih.tu-dresden.de/index.php/s/77xCWyqnpStFPjL)
+For the phenotype and the normalized expression data, please refer to this [link](https://cloudstore.zih.tu-dresden.de/index.php/s/77xCWyqnpStFPjL).
 
 ...
 
